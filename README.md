@@ -18,3 +18,9 @@ PDF: [lab1.pdf](lab1/lab1.pdf)
 Notebook: [lab2.ipynb](lab2/lab2.ipynb)
 
 PDF: [lab2.pdf](lab2/lab2.pdf)
+
+## Laboratorio 3
+
+Notebook: [lab3.ipynb](lab3/lab3.ipynb)
+
+PDF: [lab3.pdf](lab3/lab3.pdf)
